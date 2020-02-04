@@ -1,3 +1,4 @@
+// USED FOR VERSION 1 - LOCAL ARRAY TO RENDER NOTES
 const notes = [
   {
     key: 1,
